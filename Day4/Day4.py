@@ -1,6 +1,6 @@
 import re
 
-input=open('C:/Users/Karla/Documents/Advent of Code 2023/Day4/test_input.txt','r').read()
+input=open('C:/Users/Karla/Documents/AoC2023/Day4/test_input.txt','r').read()
 lines=input.splitlines()
 
 winning_numbers=list()
